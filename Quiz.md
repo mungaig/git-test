@@ -41,7 +41,9 @@ At this time, we do not have a way for you to customize your personal dashboard 
 GitHub currently doesn't support Opera. We recommend that you use a different browser e.g. Google Chrome or Firefox. The gradient should work well on either of these.
 
 *It looks like you only take credit cards. Can I pay with Bitcoin?*  
-Kindly note that Bitcoin is not accepted as a means of payment at the moment. At GitHub we understand the importance of safeguarding your personal and financial information. Please fill in your credit card information details with the confidence that it is secure with us.
+Kindly note that Bitcoin is not accepted as a means of payment at the moment. At GitHub, we understand the importance of safeguarding your personal and financial information. Please fill in your credit card information details with the confidence that it is secure with us.
+
+We hope this adequately addresses your concerns. Please reach out here if you have more questions on this.
 
 Best Regards,  
 Geoffrey Mungai  
@@ -72,11 +74,11 @@ GitHub Security & Revenue Team
 
 Hi Jorge,
 
-Thank you for writing to us. From our end, we are able to verify that JorgeLLC exists as an organization account registered under username *freebird72* as the sole owner.  We also noted that your account - jorge2010 - was never a member of the organization. Furthermore, the account was never had another owner. 
+Thank you for writing to us. From our end, we are able to verify that JorgeLLC exists as an organization account registered under username *freebird72* as the sole owner.  We also noted that your account - *jorge2010* - was never a member of the organization. Furthermore, the account was never had another owner. 
 
-As the only owner of the organization, Freebird is the only person in a position to effect the change of ownership. Given that your account was never a member of the organization, you'd need them to add you as a member first and then make you an owner of the organization.
+As the sole owner of the organization, Freebird is the only person in a position to effect the change of ownership. Given that your account was never a member of the organization, you'd need them to add you as a member first and then make you an owner of the organization.
 
-While we empathize with you and with all these in mind, we regret to inform you that we are not in a position to assist with your request. Kindly note that GitHub does not change account ownership or transfer code without a court order. We also do not to arbitrate rightful ownership of accounts.
+We empathize with you but with all these in mind, we regret to inform you that we are not in a position to assist you with this request. Kindly note that GitHub does not change account ownership or transfer code without a court order. We also do not to arbitrate rightful ownership of accounts.
 
 We recommend that you try to get into contact with Freebird and come to an agreement on the transfer of account ownership. This often results in a faster resolution of the matter as opposed to going to court. 
 
@@ -103,7 +105,7 @@ GitHub Security & Revenue Team
 
 Hi Jamestk,
 
-Thank you for your question. Based on what we see from your account, you have personal repository. Collaborators are able to fork personal repositories without needing permission from the owner. 
+Thank you for your question. Looking into your account, we can verify that you have personal repository. Collaborators are able to fork personal repositories without needing permission from the owner. 
 
 To prevent this from happening in future, you may want to create an organization account or to [convert your personal account to an organization](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-personal-account/converting-a-user-into-an-organization). By default, new organizations are configured to disallow the forking of private repositories. With an organization repository, you will also be able to allow or prevent forking of any private repository owned by your organization.
 
