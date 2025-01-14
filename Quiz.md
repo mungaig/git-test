@@ -82,7 +82,7 @@ We empathize with you but with all these in mind, we regret to inform you that w
 
 We recommend that you try to get into contact with Freebird and come to an agreement on the transfer of account ownership. This often results in a faster resolution of the matter as opposed to going to court. 
 
-You can find out more about [transsfering organization ownership](https://docs.github.com/en/organizations/managing-organization-settings/transferring-organization-ownership) from our docs. Please reach out if you require further clarification.
+You can find out more about [transfering organization ownership](https://docs.github.com/en/organizations/managing-organization-settings/transferring-organization-ownership) from our docs. Please reach out if you require further clarification.
 
 Best regards,  
 Geoffrey Mungai  
