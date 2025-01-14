@@ -34,13 +34,13 @@ A few things to keep in mind:
 
 Thank you for reaching out to us. We are glad that you were able to attend our Satellite in Chicago, we loved having you there. Please see the answers below:
 
-*Is there any way to customize my personal dashboard?*
+*Is there any way to customize my personal dashboard?*  
 At this time, we do not have a way for you to customize your personal dashboard sections. We have taken note of your interest in the ability to edit what's displayed in the "browse activity" section. Are there other personal dashboard features or changes that you'd be interested in? Please let us know. 
 
-*The gradient is broken on repo pages in Opera.*
+*The gradient is broken on repo pages in Opera.*  
 GitHub currently doesn't support Opera. We recommend that you use a different browser e.g. Google Chrome or Firefox. The gradient should work well on either of these.
 
-*It looks like you only take credit cards. Can I pay with Bitcoin?*
+*It looks like you only take credit cards. Can I pay with Bitcoin?*  
 Kindly note that Bitcoin is not accepted as a means of payment at the moment. At GitHub we understand the importance of safeguarding your personal and financial information. Please fill in your credit card information details with the confidence that it is secure with us.
 
 Best Regards,  
