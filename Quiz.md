@@ -82,8 +82,8 @@ We recommend that you try to get into contact with Freebird and come to an agree
 
 You can find out more about [transsfering organization ownership](https://docs.github.com/en/organizations/managing-organization-settings/transferring-organization-ownership) from our docs. Please reach out if you require further clarification.
 
-Best regards,
-Geoffrey Mungai
+Best regards,  
+Geoffrey Mungai  
 GitHub Security & Revenue Team
 
 ### Question 3: Unhappy about forking
@@ -111,6 +111,6 @@ Unfortunately, you will not be able to [delete the the forked repo](https://gith
 
 You can learn more about forking permissions from [our docs here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-permissions-and-visibility-of-forks). We hope this answers your questions. Please let us know if you need more information regarding this.
 
-Best regards,
-Geoffrey Mungai
+Best regards,  
+Geoffrey Mungai  
 GitHub Security & Revenue Team
