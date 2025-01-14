@@ -43,8 +43,8 @@ GitHub currently doesn't support Opera. We recommend that you use a different br
 *It looks like you only take credit cards. Can I pay with Bitcoin?*
 Kindly note that Bitcoin is not accepted as a means of payment at the moment. At GitHub we understand the importance of safeguarding your personal and financial information. Please fill in your credit card information details with the confidence that it is secure with us.
 
-Best Regards,
-Geoffrey Mungai
+Best Regards,  
+Geoffrey Mungai  
 GitHub Security & Revenue Team
 
 ### Question 2: Need to get my account back
